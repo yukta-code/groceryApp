@@ -1,0 +1,11 @@
+{
+  "name": "groceryapp-main",
+  "version": "1.0.0",
+  "description": "This project is a web app that is created to provide users with the ease of comparing the pricing and ratings of a particular grocery product available on all different e-commerce websites at a single place.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
